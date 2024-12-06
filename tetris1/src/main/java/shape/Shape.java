@@ -170,13 +170,7 @@ public class Shape {
                           }      
            }
         }
-        }
-        
-        
-        
-        
-        
-        
+        }       
         
         coordenadas=shapeRotada;
     
@@ -194,6 +188,7 @@ public class Shape {
         
         }
         return temp;
+        //prueba
     }
     
     private void reversarRows(int [][]matriz){
